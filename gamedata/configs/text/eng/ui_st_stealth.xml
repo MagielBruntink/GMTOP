@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_stealth_title">
+		<text>Stealth Overhaul</text>
+	</string>
+	<string id="ui_mcm_menu_stealth">
+		<text>Stealth Overhaul</text>
+	</string>
+
+	<string id="ui_mcm_stealth_memory">
+		<text>Memory</text>
+	</string>
+	<string id="ui_mcm_stealth_memory_desc">
+		<text>Memory multiplier. (If an NPC already saw target then they will receive a boost to their vision against the target.\n
+		Decreases with time. (A value of 1.0 it takes around 100 real-life seconds for an NPC to drop their boost to 0 against the target)\n 
+		Default: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_luminocity">
+		<text>Luminosity</text>
+	</string>
+	<string id="ui_mcm_stealth_luminocity_desc">
+		<text>Luminosity multiplier. (Light on object).\n 
+		Default: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_distance">
+		<text>Distance</text>
+	</string>
+	<string id="ui_mcm_stealth_distance_desc">
+		<text>Distance multiplier. (Distance from object to object, range and fov).\n 
+		Default: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_velocity">
+		<text>Velocity</text>
+	</string>
+	<string id="ui_mcm_stealth_velocity_desc">
+		<text>Velocity multiplier. (Speed of object).\n 
+		Default: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_weight">
+		<text>Weight</text>
+	</string>
+	<string id="ui_mcm_stealth_weight_desc">
+		<text>Weight multiplier. (Weight on actor).\n 
+		Default: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_crouch">
+		<text>Crouch</text>
+	</string>
+	<string id="ui_mcm_stealth_crouch_desc">
+		<text>Crouch multiplier.\n 
+		Default: 0.4</text>
+	</string>
+
+	<string id="ui_mcm_stealth_low_crouch">
+		<text>Low Crouch</text>
+	</string>
+	<string id="ui_mcm_stealth_low_crouch_desc">
+		<text>Low crouch multiplier.\n 
+		Default: 0.25</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon">
+		<text>Icon</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_desc">
+		<text>Luminosity icon. (Displays light on actor).</text>
+	</string>
+
+	<string id="ui_mcm_stealth_michiko_patch">
+		<text>Michiko Weather Patch</text>
+	</string>
+	<string id="ui_mcm_stealth_michiko_patch_desc">
+		<text>Recommended to enable this if you use Michiko's Weather.</text>
+	</string>
+
+	<string id="ui_mcm_stealth_debugx">
+		<text>Debug</text>
+	</string>
+	<string id="ui_mcm_stealth_debugx_desc">
+		<text>Displays equation variables (for a correct threshold, you have to keep the cursor on the object at all times):\n 
+		Console: all variables\n 
+		Dynamic news: whether or not object sees actor\n 
+		Bottom of the screen message: visibility threshold of object (and variables that you can change in MCM).</text>
+	</string>
+</string_table>

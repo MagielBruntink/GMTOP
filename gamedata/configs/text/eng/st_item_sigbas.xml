@@ -1,0 +1,73 @@
+<string_table>
+	<string id="st_wpn_sig550t">
+		<text>SIG SG550</text>
+	</string>
+	<string id="st_wpn_sig550_camot">
+		<text>SIG SG550</text>
+	</string>
+	<string id="st_wpn_sig550_customt">
+		<text>SIG SG550</text>
+	</string>
+	<string id="st_wpn_sig550t_descr">
+		<text>Renowned for its high production quality and good performance, the SG550 is often referred to as the finest 5.56mm rifle ever made. It has a side-folding skeletonized buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986-Present-Present\n
+		</text>
+	</string>
+	<string id="st_wpn_sig550_rusty">
+		<text>SIG SG550</text>
+	</string>
+	<string id="st_wpn_sig550_rusty_descr">
+		<text>Renowned for its high production quality and good performance, the SG550 is often referred to as the finest 5.56mm rifle ever made. It has a side-folding skeletonized buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986-Present\n
+		</text>
+	</string>
+	<string id="st_wpn_sig550_sniper">
+		<text>SIG SG550-1 Sniper</text>
+	</string>
+	<string id="st_wpn_sig550_sniper_descr">
+		<text>The SG550-1 is a marksman variant of the popular Swiss-made SG550. It constitutes a perfect middle ground between a sniper and an assault rifle, retaining the strong points of both types of weaponry. On the other hand, it suffers from certain drawbacks such as somewhat lacking in stopping power and accuracy for a sniper rifle and a lack of automatic fire. Still, it remains one of the best top-tier weapon systems available within the Exclusion Zone.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986-Present\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+	<string id="st_wpn_sig550_strelokt">
+		<text>SIG SG550 Arrow</text>
+	</string>
+	<string id="st_wpn_sig550_strelokt_descr">
+		<text>The SG550-1 is a marksman variant of the popular Swiss-made SG550. It constitutes a perfect middle ground between a sniper and an assault rifle, retaining the strong points of both types of weaponry. On the other hand, it suffers from certain drawbacks such as somewhat lacking in stopping power and accuracy for a sniper rifle and a lack of automatic fire. Still, it remains one of the best top-tier weapon systems available within the Exclusion Zone.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1986-Present\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] It is clear that the previous owner took good care of it. The weapon has been taken apart and put back together with every component fine-tuned for optimum performance, increasing its stopping power. The letter "S" has been carved into the stock.\n
+		</text>
+	</string>
+	<string id="st_wpn_sig550_worn">
+		<text>SIG SG550</text>
+	</string>
+	
+	<string id="st_wpn_sig552t">
+		<text>SIG SG552 Commando</text>
+	</string>
+	<string id="st_wpn_sig552t_descr">
+		<text>The SG 552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities. It has a shorter 226mm barrel and gas tube, ventilated handguards and a redesigned bolt carrier group that was integrated with a piston rod to form a single moving assembly.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Switzerland\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]SIG Sauer AG\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1998\n
+		</text>
+	</string>
+	<string id="st_wpn_sig552_worn">
+		<text>SIG SG552 Commando</text>
+	</string>
+</string_table>

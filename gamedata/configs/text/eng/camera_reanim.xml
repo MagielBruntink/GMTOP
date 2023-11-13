@@ -1,0 +1,33 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_crp_title">
+		<text>Camera Reanim Project</text>
+	</string>
+	<string id="ui_mcm_menu_crpmcm">
+		<text>I.N.E.R.T.I.A.</text>
+	</string>
+	<string id="ui_mcm_crpmcm_jump_land">
+		<text>Jump and Land Effects</text>
+	</string>
+	<string id="ui_mcm_crpmcm_leaning">
+		<text>Lean Effects</text>
+	</string>
+	<string id="ui_mcm_crpmcm_wpn_ads">
+		<text>Weapon ADS Effects</text>
+	</string>
+	<string id="ui_mcm_crpmcm_moving">
+		<text>Run/Walk Effects</text>
+	</string>
+	<string id="ui_mcm_crpmcm_crouch">
+		<text>Crouch Effects</text>
+	</string>
+	<string id="ui_mcm_crpmcm_fire_mode">
+		<text>Fire Mode Switcher Effects</text>
+	</string>
+
+</string_table>

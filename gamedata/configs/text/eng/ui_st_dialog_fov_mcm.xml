@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_dialog_fov_title">
+		<text>Dynamic Dialog UI</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_dialog_fov">
+		<text>Dynamic Dialog UI</text>
+	</string>
+
+	<string id="ui_mcm_demonized_dialog_fov_enabled">
+		<text>Enable</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_enabled">
+		<text>Enable Zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_modifier">
+		<text>Zoom Modifier</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov">
+		<text>Minimum Zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov_desc">
+		<text>With zoom enabled, the FOV will change to at least this value.</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov">
+		<text>Distance Based Zoom</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov_desc">
+		<text>This changes the FOV so that the character is the same size no matter how far away they are from the player.</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_fov_smoothing">
+		<text>Zoom Smoothness</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_track_npc">
+		<text>Camera Focus On NPC</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier">
+		<text>Camera Rotation Factor</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier_desc">
+		<text>Camera rotation factor for adjusting the position of the character. 0 means no rotation, while negative values will rotate the camera in the opposite direction.</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_smoothing">
+		<text>Camera Focus Smoothness</text>
+	</string>
+	
+</string_table>

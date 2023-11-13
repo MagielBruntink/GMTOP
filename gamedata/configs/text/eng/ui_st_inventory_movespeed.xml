@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="ui_inv_outfit_speed">
+		<text>Movespeed multiplier</text>
+	</string>
+
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>Outfits\Weapons\n
+		Affect Move Speed</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>Outfits\Weapons Affect Move Speed</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>Outfits/Weapons Affect Move Speed</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>Encumbrance Affects Speed</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>Encumbrance feature gives bonuses when lightly encumbered (less than 25% total encumbrance) and penalties when heavily encumbered (more than 70%).\n
+		Be warned that enabling this option will result in ludicrous speeds if you travel lightly.</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>Weapon Affects Sprint Speed</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>If enabled, weapons apply a modifier to sprint speed depending on type and weight.</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(Developer) Additional Console Logging</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>Prints some useful crap to the console.</text>
+	</string>
+</string_table>

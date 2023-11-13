@@ -1,0 +1,78 @@
+
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_companion_anti_awol_title">
+		<text>Companion Anti AWOL</text>
+	</string>
+	<string id="ui_mcm_menu_companion_anti_awol">
+		<text>Companion Anti AWOL</text>
+	</string>
+
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol">
+		<text>Companions Ignore Combat Based On Player Distance</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_desc">
+		<text>If enabled, companions will ignore combat based off of the below sliders.</text>
+	</string>
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance">
+		<text>Ignore Combat Distance (Follow)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance_desc">
+		<text>Companions will ignore combat when they reach the specified distance from the player (in meters).</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance">
+		<text>Allow Combat Distance (Follow)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance_desc">
+		<text>Companions will re-engage combat when they reach the specified distance from the player (in meters).</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance">
+		<text>Ignore Combat Distance (Go To Marker)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance_desc">
+		<text>Companion will ignore combat when they reach the specified distance from the go to marker (in meter)</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance">
+		<text>Allow Combat Distance (Go To Marker)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance_desc">
+		<text>Companions will re-engage combat when they reach the specified distance from the go to marker (in meters).</text>
+	</string>
+
+	
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy">
+		<text>Companions Ignore Combat Based On Enemy Distance</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy_desc">
+		<text>If enabled, companions will ignore combat based off of the below sliders.</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance">
+		<text>Ignore Combat Distance (Follow)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance_desc">
+		<text>Companions will ignore combat when the enemy is outside of the specified distance from the player (in meters).</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance">
+		<text>Ignore Combat Distance (Go To Marker)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance_desc">
+		<text>Companions will ignore combat when the enemy is outside of the specified distance from the go to marker (in meters).</text>
+	</string>
+
+</string_table>

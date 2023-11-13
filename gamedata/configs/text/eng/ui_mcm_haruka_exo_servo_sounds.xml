@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_exo_servo_sounds_title">
+		<text>Exo Servo Sounds</text>
+	</string>
+	<string id="ui_mcm_menu_exo_servo_sounds">
+		<text>Exo Servo Sounds</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_walk">
+		<text>Volume (Walk)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_walk_desc">
+		<text>Walking volume.</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_land">
+		<text>Volume (Land)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_land_desc">
+		<text>Landing volume.</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_jump">
+		<text>Volume (Jumping)</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_volume_jump_desc">
+		<text>Jumping volume.</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_discharge">
+		<text>Discharge</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_discharge_desc">
+		<text>Amount of charge lost after getting hit by an electro anomaly.</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_scale_freq">
+		<text>Frequency Scaling</text>
+	</string>
+	<string id="ui_mcm_exo_servo_sounds_scale_freq_desc">
+		<text>Scaling of sound frequency based on the actor's state (walking, crawling, sprinting etc).</text>
+	</string>
+</string_table>

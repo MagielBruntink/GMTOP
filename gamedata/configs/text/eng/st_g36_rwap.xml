@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_wpn_g36v">
+		<text>G36V</text>
+	</string>
+	<string id="st_wpn_g36v_descr">
+		<text>The H&amp;K G-36 was known as the HK-50 project in the early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The G36V is the export version of the standard G36 with all the characteristics of the standard rifle. This version was first produced for Spain and Latvia. It is accurate, reliable and simple in maintenance.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1996\n
+		</text>
+	</string>
+	<string id="st_wpn_g36ka4k">
+		<text>G36KA4</text>
+	</string>
+	<string id="st_wpn_g36ka4_descr">
+		<text>The H&amp;K G-36 was known as the HK-50 project in the early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The G36KA4 is a modernized variant of the G36K. It added more tactical accessories, a heavier barrel, a lower profile picatinny rail and the ability to attach a grenade launcher.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2016\n
+		</text>
+	</string>
+	<string id="st_wpn_g36nimble_rwap">
+		<text>G36C "Merc"</text>
+	</string>
+	<string id="st_wpn_g36nimble_rwap_descr">
+		<text>The H&amp;K G-36 was known as the HK-50 project in tge early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles. Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The new 5.56x45mm assault rifle was adopted by the Bundeswehr in 1995 and also found its way into the hands of various law enforcement agencies worldwide, including British police and some US police departments. It is accurate, reliable and simple in maintenance.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1997\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[ui_gray_2]foregrip\n
+		%c[d_blue] • %c[ui_gray_2]lasersight\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]This special varient comes with a modified bolt resulting in more devastating power.\n
+		</text>
+	</string>
+</string_table><?xml version="1.0" encoding="windows-1251"?>

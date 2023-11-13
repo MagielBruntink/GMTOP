@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_better_stats_bars_title">
+		<text>Better Stats Bars</text>
+	</string>
+	<string id="ui_mcm_menu_better_stats_bars">
+		<text>Better Stats Bars</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_positive_color_help">
+		<text>Color of increased stats bar</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_a">
+		<text>Opacity</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_r">
+		<text>Red</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_g">
+		<text>Green</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_b">
+		<text>Blue</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_negative_color_help">
+		<text>Color of decreased stats bar</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_a">
+		<text>Opacity</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_r">
+		<text>Red</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_g">
+		<text>Green</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_b">
+		<text>Blue</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_neutral_color_help">
+		<text>Color of unchanged stats bar</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_a">
+		<text>Opacity</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_r">
+		<text>Red</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_g">
+		<text>Green</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_b">
+		<text>Blue</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>Position</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>The position of extra bars relative to base ones</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_bottom">
+		<text>Bottom</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_top">
+		<text>Top</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_justify">
+		<text>Fill all height</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_use_game_values">
+		<text>Use Game Values</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_use_game_values_desc">
+		<text>Enabling this option will make bars represent protection against actual game threats (npcs, mutants, anomalies), based on their damage values, elemental types. This will also include corrected of outfit and helmet protection behavior. You can choose these options:\n \n
+		None: Disables the option.\n
+		Max: The bar at maximum represents maximum damage possible to receive. For this case, 1/3rds of the bar usually represents fire, acid, psy fields, weak mutants and pistol caliber firearms.\m
+		2/3rds of the bar represents anomaly mines such as electric, gravitational anomalies, burners acid pools, psy dog attacks, average strength mutants and intermediate firearms.\n
+		The full bar represents protection against the strongest mines, fields, controller attacks, the strongest mutants and high caliber firearms.\n
+		Max (No Mines): Same as Max but anomaly mines are not taken into results. Useful if you want to know exact protection against fields and plan to evade mines rather than knowing how much damage you take from them.</text>
+
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
+		<text>None</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max">
+		<text>Max</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
+		<text>Max (No Mines)</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>The position of extra bars relative to base ones</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_bottom">
+		<text>Bottom</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_top">
+		<text>Top</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_justify">
+		<text>Fill all height</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
+		<text>EFP UI (Modern UI) Compatibilty</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
+		<text>Better display of bars when using Escape From Pripyat (EFP) modpack.\n
+		Also setting position to "Fill all height" and lowering opacity of all kinds of bars is recommended.</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
+		<text>G.A.M.M.A. UI Compatibility</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
+		<text>Better display of bars when using G.A.M.M.A. modpack or old version of Hunger, Thirst and Sleep bars mod.</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_arx_compatibility">
+		<text>ARX Compatibilty</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
+		<text>More correct display of stats when using ARX mod (Artefact Restoration eXperiment).</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_abf_compatibility">
+		<text>ABF Compatibilty</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
+		<text>More correct display of stats when using ABF mod (Anomalous Balance Fix).</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_acid_bar_fix">
+		<text>Alternative Acid Bar Display</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_acid_bar_fix_desc">
+		<text>In "Use Game Values Max" mode, makes acid bar more usable with more coverage by artifically reducing hit power caused by anomalous mines at the cost of precision of display.</text>
+	</string>
+		
+</string_table>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>Perk Based Artefacts</text>
+	</string>
+	<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>Perk Artefacts</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode">
+		<text>Debug Mode</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
+		<text>Enables message spam in console.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
+		<text>Allow Artefacts In Containers?</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
+		<text>Allows perk artefacts in containers to utilize their perks.\n
+		Perk descriptions will still be only available for container-less artefacts.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
+		<text>Artefacts Stash Regularity</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
+		<text>The lower the number, the rarer perk artefacts will be in stashes.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
+		<text>Condition Degradation</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
+		<text>Every 20 seconds perk artefacts will lose condition by this percentage.</text>
+	</string>
+	
+</string_table>

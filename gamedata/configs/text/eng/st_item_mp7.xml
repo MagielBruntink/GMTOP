@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_mp7_descr_new">
+		<text>The Maschinenpistole 7 is a German personal defence weapon (PDW) designed and manufactured by Heckler &amp; Koch and chambered for the 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements called for a personal defense weapon class firearm with a greater ability to penetrate body armor than current weapons that were limited to conventional pistol cartridges. The MP7 went into production in 2001 and has been a staple since.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Germany\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Heckler &amp; Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1999\n
+		</text>
+	</string>
+	
+</string_table>

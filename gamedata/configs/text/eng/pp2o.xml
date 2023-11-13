@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_pp2000_oper">
+		<text>PP-2000 "Operator"</text>
+	</string>
+	<string id="st_wpn_pp2000_oper_descr">
+		<text>The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. The weapon find its niche as a personal defence weapon for non-infantry military personnel as well as a close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for increased reliability, simplified maintenance and low cost. It is best suited for close combat.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]KBP Instrument Design Bureau\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2006\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] This model features an AC10632 Barska Electro sight, laser designator and tactical flashlight.\n
+		</text>
+	</string>
+</string_table>

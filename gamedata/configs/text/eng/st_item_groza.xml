@@ -1,0 +1,29 @@
+<string_table>
+	<string id="st_wpn_guns_groza">
+		<text>OC-14-4A</text>
+	</string>
+	<string id="st_wpn_groza_guns_descr">
+		<text>The "Groza" ("Thunder") modular assault rifle was intended for various special forces in the Russian Army and Internal Affairs Ministry as an dedicated urban warfare weapon. Briefly manufactured in small numbers at the Tula Arms factory during the mid-1990s, the OTs-14 saw action in Chechnya in 1999 but fell out of favour and are no longer being made. It is a bullpup design with a removable foregrip which can be replaced with a 40mm grenade launcher. Adopted for Spetsnaz forces and specialist front-line combat units, this Zone version is equipped with the GP-25 grenade launcher.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsKIB SOO\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1992\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255] GP-25 grenade launcher\n
+		</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble">
+		<text>OC-14-4A "Dolg"</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble_descr">
+		<text>The "Groza" ("Thunder") modular assault rifle was intended for various special forces in the Russian Army and Internal Affairs Ministry as an dedicated urban warfare weapon. Briefly manufactured in small numbers at the Tula Arms factory during the mid-1990s, the OTs-14 saw action in Chechnya in 1999 but fell out of favour and are no longer being made. It is a bullpup design with a removable foregrip which can be replaced with a 40mm grenade launcher. Adopted for Spetsnaz forces and specialist front-line combat units, this Zone version is equipped with the GP-25 grenade launcher.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]TsKIB SOO\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1992\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255] GP-25 grenade launcher\n	\n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] This model has been modified by local artisans from the "Duty" for one of their former fighters named Danya-Master. Using the more common 5.45x39mm and a 60-round map with laser sight, this weapon is a long-standing dream of every veteran of the "DUTY" group.\n		
+		</text>
+	</string>
+</string_table>

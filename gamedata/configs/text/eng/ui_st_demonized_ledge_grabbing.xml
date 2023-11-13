@@ -1,0 +1,92 @@
+
+<!--
+    Ledge Grabbing
+    Generated with AnomalyModCreator
+-->
+
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_ledge_grabbing_title">
+		<text>Ledge Grabbing</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_ledge_grabbing">
+		<text>Ledge Grabbing</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_enable">
+		<text>Enable</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection">
+		<text>Alternative Climb Detection</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
+		<text>Alternative method will raycast to ledges closer to players crosshair.\n
+		Standard method will raycast from a fixed height.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance">
+		<text>Trigger Distance</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance_desc">
+		<text>Max distance to initiate ledge grabbing.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps">
+		<text>Ledge Grabbing Accuracy</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps_desc">
+		<text>Bigger number will result in better detection and position for grabbing at the cost of a slight performance penalty.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime">
+		<text>Time to Hold Key To Trigger</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime_desc">
+		<text>If you hold for more than this time, ledge grabbing will be activated.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_soundVolume">
+		<text>Sound Volume</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntVolume">
+		<text>Grunts Volume</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntProbability">
+		<text>Grunts Probability</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
+		<text>Stamina Drain</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
+		<text>Input Method</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_keybind">
+		<text>Keybind</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_jumpHold">
+		<text>Hold Key</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_buttonPress">
+		<text>Button Press</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_both">
+		<text>Both</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization">
+		<text>Animation Randomization</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization_desc">
+		<text>Randomizes camera movement.</text>
+	</string>
+
+</string_table>
+                        

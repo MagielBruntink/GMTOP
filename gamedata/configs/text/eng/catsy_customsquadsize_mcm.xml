@@ -1,0 +1,15 @@
+<string_table>
+	<string id="ui_mcm_menu_customsquadsize">
+		<text>Custom Companion\n
+		Squad Size</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize">
+		<text>Max Number Of Companions</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
+		<text>Max Companions With "Folk Hero" Achievement</text>
+	</string>
+
+</string_table>

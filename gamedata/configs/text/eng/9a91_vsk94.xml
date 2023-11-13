@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_9a91n_descr">
+		<text>The 9A91 is often considered a cheaper and more versatile alternative to the SR-3 "Vikhr". It is a gas operated, rotating bolt assault rifle. The steel stock folds up and above the receiver when not in use. The flip up rear sight have settings for 100 and 200 meters range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 meters.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_2]1993\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_vsk94n_descr">
+		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine and was designed to accurately engage unarmored targets at ranges of up to 400m.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_2]1994\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[ui_gray_2]Suppressor\n
+		</text>
+	</string>
+
+</string_table>

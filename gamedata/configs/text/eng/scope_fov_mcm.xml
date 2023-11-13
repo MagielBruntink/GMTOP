@@ -1,0 +1,79 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+
+	<string id="ui_mcm_scop_title">
+		<text>Scope HUD Settings</text>
+	</string>	
+	<string id="ui_mcm_menu_scop">
+		<text>Adjustable Scope View</text>
+	</string>
+
+	<string id="ui_mcm_scop_iron_fov">
+		<text>Ironsights and Integrated 3D Sights</text>
+	</string>
+	<string id="ui_mcm_scop_iron_fov_desc">
+		<text>Lower values bring the scope closer when using ironsights and integrated 3D sights.</text>
+	</string>
+
+	<string id="ui_mcm_scop_scope_fov">
+		<text>3D Scopes</text>
+	</string>
+	<string id="ui_mcm_scop_scope_fov_desc">
+		<text>Lower values bring the scope closer when using 3D scopes.</text>
+	</string>
+
+	<string id="ui_mcm_scop_bad_scope_fov">
+		<text>Bad 3D Optical Scopes</text>
+	</string>
+	<string id="ui_mcm_scop_bad_scope_fov_desc">
+		<text>Due to technical limitations, certain scopes like the ACOG has to be further away by default in order to look normal. This setting is for those scopes.</text>
+	</string>
+
+	<string id="ui_mcm_scop_pistol_fov">
+		<text>Pistols</text>
+	</string>
+	<string id="ui_mcm_scop_pistol_fov_desc">
+		<text>Controls how close pistols are.</text>
+	</string>
+
+	<string id="ui_mcm_scop_grenade_fov">
+		<text>Grenade Launcher</text>
+	</string>
+	<string id="ui_mcm_scop_grenade_fov_desc">
+		<text>Lower values bring the scope closer when using attached grenade launchers.</text>
+	</string>
+	<string id="ui_mcm_scop_alt_fov">
+		<text>Alternate Aim Sights</text>
+	</string>
+	<string id="ui_mcm_scop_alt_fov_desc">
+		<text>Lower values bring the scope closer when using alternate aim sights.</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_add">
+		<text>Bring Weapon Further Away</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_add_desc">
+		<text>Moves the held weapon further away by incrementing zoom hud fov.</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_subtract">
+		<text>Bring Weapon Closer</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_subtract_desc">
+		<text>Brings the held weapon closer by decrementing zoom hud fov.</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_reset">
+		<text>Reset Current Weapon</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_reset_desc">
+		<text>Sets your zoom hud fov on the currently held weapon back to normal</text>
+	</string>
+
+	<string id="ui_mcm_scop_snk_update_mcm">
+		<text>Update MCM to see this feature.\n
+		Key defaults to Numpad '+' , '-' and 'Backspace' for resetting current weapon.</text>
+	</string>
+</string_table>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="0_insider">
+		<text>I heard that I can exchange armors of other factions for ones of our own faction, right?</text>
+	</string>
+	<string id="1_insider">
+		<text>You heard right stalker. I will give you some armors that are about the same as the one you have in your possession, but only if they come from other factions. This is limited by our own faction stock indeed.\n
+		Remember that if your armor is in bad shape, I will not give you a pristine one, eh? It's not Babushka's house here.\n
+		You give me a random pile of crap, I'll give you the same in return.\n
+		On the other hand, if your armor is in good shape, I will give you a shiny new outfit, ok?\n
+		By the way, this service is not free. You can check the prices on the billboard over there. Consider the cost as a fee for the whole service to run since we repair some of the armors, and as a donation for our faction to prosper.\n 
+		So, which type of armor do you want to trade? I will check if you have an outfit matching what you seek.</text>
+	</string>
+	<string id="armor_exchange_light">
+		<text>A light outfit (for any light armor) [5000 RU]. </text>
+	</string>
+	<string id="armor_exchange_medium">
+		<text>A medium outfit (for any medium armor) [10000 RU]. </text>
+	</string>
+	<string id="armor_exchange_specops">
+		<text>A specops outfit (medium armored outfit for any medium armor) [25000 RU]. </text>
+	</string>
+	<string id="armor_exchange_sci">
+		<text>A scientific outfit (for any non armored medium scientific suit) [15000 RU]. </text>
+	</string>
+	<string id="armor_exchange_skat">
+		<text>A skat9 heavy armor (for any skat9 armor)  [25000 RU]. </text>
+	</string>
+	<string id="armor_exchange_exolight">
+		<text>An exosuit heavy armor (for any exosuit heavy armor) [30000 RU]. </text>
+	</string>
+	<string id="armor_exchange_exo">
+		<text>An exoskeleton-powered armor (for any exo armor) [45000 RU]. </text>
+	</string>
+	<string id="armor_exchange_noso">
+		<text>A Nosorog-class exoskeleton (for any Nosorog armor) [65 000 RU]. </text>
+	</string>
+	<string id="armor_exchange_exit">
+		<text>Actually, nevermind.</text>
+	</string>
+</string_table>

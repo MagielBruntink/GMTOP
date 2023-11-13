@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_wpn_vihrn">
+		<text>SR-3M Vikhr</text>
+	</string>
+	<string id="st_wpn_vihrn_descr">
+		<text>The SR-3 "Vikhr" ("Whirlwind") was based on the suppressed 9x39mm AS-Val assault rifle and intended for concealed carry by special VIP protection teams and State Security operatives. The SR-3M Vikhr is a result of combining the qualities of the SR-3, AS VAL and VSS Vintorez. The SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
+		%c[0,255,255,255]CHARACTERISTICS:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Russia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arms Plant\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1995\n
+		</text>
+	</string>
+</string_table>

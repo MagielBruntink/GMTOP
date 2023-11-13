@@ -1,0 +1,15 @@
+<string_table>
+
+	<string id="st_wpn_beretta_stars">
+		<text>Beretta 92F "Stars"</text>
+	</string>
+	<string id="st_wpn_beretta_stars_descr">
+		<text>The 92F is perhaps best known as the standard pistol of the US Military, replacing the legendary M1911. It is a short-recoil operated, locked-breech weapon with an aluminium frame and a hard chromed barrel bore. A popular sidearm adopted by several countries, it is especially popular among criminals for its high-powered rounds and high-capacity magazine.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] . %c[0,255,255,255]Origin: %c[ui_gray_1]Italy\n
+		%c[d_cyan] . %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Fabbrica d'Armi Pietro Beretta\n
+		%c[d_cyan] . %c[0,255,255,255]Production Year: %c[ui_gray_1]1976\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0] STARRRRSSS!!!\n
+		</text>
+	</string>
+</string_table>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	
+	<string id="st_wpn_fort12_descr">
+		<text>The Fort-12 is an attempt for recently-independent Ukraine (from August 1991) to create its own police pistol to replace the Soviet-era Makarov PM while still using the same 9x18 caliber. Designed in 1995 and developed in 1998 by Ukrainian firearms designer RPC Fort, this is a formidable pistol considered to be an upgrade of the PM itself. Although it may have reliability issues, especially due to the lack of a safe decocking facility, it compensates with accuracy, magazine size and ergonomics. This model comes with a threaded barrel, allowing the attachment of a suppressor.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Ukraine\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer:  %c[ui_gray_1]RPC Fort\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1998\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+
+	<string id="st_wpn_fort17_descr">
+		<text>The Fort-17 pistol is the latest development of the Ukrainian state owned FORT factory. It is a polymer framed modification of the earlier Fort-12 pistol. All the mechanisms and properties are almost identical between the two pistols. However, the Fort-17 is lighter than its predecessor and features a removable grip backstrap for better comfort.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Ukraine\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]RPC Fort\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2004\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_fort21">
+		<text>Fort-21</text>
+	</string>
+	
+	<string id="st_wpn_fort21_descr">
+		<text>The Fort-21.01 is a copy of the Jericho 941 manufactured by "RPC Fort", made after making a contract with "Israel Military Industries" in September 2009. Considering its relatively "new" status, especially in The Zone, it is a rather rare pistol, hence the price. It is modeled upon the CZ-75, in which case both can share their respective 16-round magazines. It uses 9x19 caliber instead of 9x18 unlike its older brothers, the Fort-12 and Fort-17.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Ukraine\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]RPC Fort\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]2009\n
+		</text>
+	</string>
+
+	<string id="st_up_fort21_45acp_name">
+		<text>Change of calibre to .45 ACP</text>
+	</string>
+
+</string_table>

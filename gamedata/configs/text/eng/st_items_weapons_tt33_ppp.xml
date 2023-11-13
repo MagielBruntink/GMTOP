@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_m57">
+		<text>Zastava M57</text>
+	</string>
+
+	<string id="st_wpn_m57_descr">
+		<text>The Yugoslavian variant of the TT-33 from 1957 until 1992 offers a lot of improvements from the TT-33, including a longer frame, improving handling, and a longer magazine, allowing one more round to be loaded. Of important note, due to how it was engineered, it's easily possible to switch the caliber to 9x19.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Yugoslavia\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Zastava Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1992\n
+		</text>
+	</string>
+	
+</string_table>

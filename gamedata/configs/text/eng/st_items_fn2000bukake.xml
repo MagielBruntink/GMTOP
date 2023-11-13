@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_fn2000e_descr">
+		<text>The aim of the FN F2000 was to produce a modern and modular weapon offering all of the popular features of the modern assault rifle such as a compact bullpup layout, an ambidextrous frame and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1995\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble">
+		<text>FN F2000</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>The aim of the FN F2000 was to produce a modern and modular weapon offering all of the popular features of the modern assault rifle such as a compact bullpup layout, an ambidextrous frame and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Belgium\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]FN Herstal\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1995\n \n
+		%c[0,255,255,255]INTEGRATED ATTACHEMENTS:\n
+		%c[d_blue] • %c[0,255,255,255]Optical sight\n
+		</text>
+	</string>
+
+</string_table>

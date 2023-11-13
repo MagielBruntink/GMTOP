@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_af_surge_up_name">
+		<text>Improved Surge Regenerator</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>Unique, a device that absorbs electrical energy around itself and partially transforms it into the body, increasing endurance. Excess energy leads to the regeneration of damaged tissues. It mainly serves as an over voltage protection for limited short-circuit shock current, limiting the amount of electricity coming into contact with the body, by closing it to the ground. Represents a rather complex electronic circuit of valuable radio components, which greatly increases the electrical resistance of the body. As a result, the body falls under a lower voltage and is able to withstand discharges of electricity that previously led to death. Thus, it is vitally important to have a current-limiting micro-reactor when it is necessary to approach electric anomalies or other sources of electricity. Like any electronic object, it can be used as a repair material with appropriate tools and skills.\n \n
+		%c[d_red]WARNING:%c[ui_gray_2] It should be noted that such a module will not work properly and provide sufficient protection if your suit does not meet the minimum protection requirements.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_up_name">
+		<text>Improved Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of aluminium frames, which optimises your carrying capabilities. These improved frames are made of aluminium which is the material of choice due to its light weight, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. Single set of frames replaces only the main framework of your backpack, but it's possible to use more sets to further improve your carrying capabilities. Although the system is built of light aluminium, some parts can still prove useful for minor outfit repairs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_up_name">
+		<text>Improved Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of a titanium grid, which optimises your carrying capabilities. The improved grid is made of titanium which is the material of choice due to its light weight and high durability, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. A single grid replaces only the main framework of your backpack, but it's possible to use more grids to further improve your carrying capabilities. Grids are created from very high quality titanium, thus disassembled grid can be used as an effective combat outfit or helmet repair supplement.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_up_name">
+		<text>Improved Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>The improved freon emission module is designed to maintain a constant temperature around the body at the level of 20 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits a thick layer of freon-cooled air particles which produce a minuscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. Another feature of the freon emission module is its ability to resist electricity to a moderate extent.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n</text>
+	</string>
+	
+	<string id="st_af_cooler_up_name">
+		<text>Improved Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>The improved body cooler is an electric module designed to maintain a constant temperature around the body at the level of 14 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits quick electrical impulses which produce a minuscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. It does not require water to function. Another feature of the body cooler is its ability to resist electricity to a moderate extent. In case of disassembly of the unit using a toolkit, the metal casing can be reused as outfit repair material.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_up_name">
+		<text>Improved Kevlar Plates and Attachments</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • protection is only applied to arms, legs and torso\n
+		%c[d_green] • +3 BR Class\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_up_name">
+		<text>Improved Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>These steel plates are specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and the back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used extensively by Spetsnaz forces.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • protection is only applied to arms, legs and torso\n
+		%c[d_green] • +6 BR Class\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_up_name">
+		<text>Improved Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep one hydrated. Flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and integrated in the suit to protect the system from damage from any source, be it combat or anomaly. Because the container is made of a high-quality textile, experienced stalkers sometimes re-use scrapped camelbaks for quality materials to patch their field outfits.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_surge_name">
+		<text>Surge Suppressor</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>A small albeit advanced device that absorbs electrical energy from its closest surroundings. It serves as a protection of sorts as it limits the amount of electricity that comes into direct contact with the body by either blocking it or by shorting it to ground. As it is in fact a very sophisticated resistor circuit, the Surge Suppressor greatly increases electrical resistance of the body. The result is that the user is hit by a significantly lower voltage and is able to survive outbursts which would normally be lethal. It is thus of vital importance to have a surge suppressor on your belt when in proximity of electrical anomalies and other sources of electricity in the Zone. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_name">
+		<text>Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of aluminium frames, which optimizes your carrying capabilities. The frames are made of aluminium which is the material of choice due to its light weight, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. Single set of frames replaces only the main framework of your backpack, but it's possible to use more sets to further improve your carrying capabilities. Although the system is built of light aluminium, some parts can still prove useful for minor outfit repairs.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_name">
+		<text>Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of titanium grid, which optimizes your carrying capabilities. The grid is made of titanium which is the material of choice due to its light weight and high durability, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. A single grid replaces only the main framework of your backpack, but it's possible to use more grids to further improve your carrying capabilities. Grids are created from very high quality titanium, thus disassembled grid can be used as an effective combat outfit or helmet repair supplement.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_name">
+		<text>Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>The Freon emission module is designed to maintain a constant temperature around the body at the level of 24 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits a thick layer of Freon-cooled air particles which produce a minuscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. Another feature of the Freon emission module is its ability to resist electricity to a moderate extent.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n</text>
+	</string>
+	
+	<string id="st_af_cooler_name">
+		<text>Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>The body cooler is an electric module designed to maintain a constant temperature around the body at the level of 18 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits quick electrical impulses which produce a minuscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. It does not require water to function. Another feature of the body cooler is its ability to resist electricity to a moderate extent. In case of disassembly of the unit using a toolkit, the metal casing can be reused as outfit repair material.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_name">
+		<text>Kevlar Plates and Attachments</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • protection is only applied to arms, legs and torso\n
+		%c[d_green] • +1 BR Class\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>These steel plates are specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and the back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used extensively by Spetsnaz forces.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • protection is only applied to arms, legs and torso\n
+		%c[d_green] • +4 BR Class\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep one hydrated. Flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and integrated in the suit to protect the system from damage from any source, be it combat or anomaly. Because the container is made of a high-quality textile, experienced stalkers sometimes re-use scrapped camelbaks for quality materials to patch their field outfits.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_af_iam_name">
+		<text>Improvised Application Module (Empty)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>The Improvised Application Module (IAM) filters a small amount of radiation particles emitted from artefacts. This mechanical metal pouch is the cheapest device that allows the user to harness the power of less potent artefacts. Artefact filter is composed of multiple layers made primarily of lead which shield from radiation. A low-cost alternative to the more reliable AAC and AAM. In case of emergency or if no longer needed, the module can be utilized as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Due to its low quality, the IAM is only able to block beta particles. Formed by all artefacts, beta particles are able to damage skin in a similar way to a burn.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity: 1\n
+		%c[d_cyan] • %c[ui_gray_2] protects from the following radioactive emissions:\n
+		%c[d_blue] - beta particles\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Artefact Application Container (Empty)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>The Artefact Application Container (AAC) filters a moderate amount of radiation particles emitted from artefacts. This mechanical aluminium container is the most cost-efficient and thus the most popular way of handling artefacts as it allows the user to harness the power of more potent artefacts. Artefact filter is composed of multiple layers made primarily of lead, with one layer of thorium which has strong radiation shielding properties. This device has been manufactured by scientists residing in military bunkers around the Zone. In case of emergency or if no longer needed, the module can be utilized as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Compared to the IAM, the AAC is capable of filtering out gamma rays. Formed by most artefacts, gamma rays are able to penetrate skin, damage DNA, and in high doses, internal organs by breaking the bonds between atoms in a molecule.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity: 1\n
+		%c[d_cyan] • %c[ui_gray_2] protects from the following radioactive emissions:\n
+		%c[d_blue] - beta particles\n
+		%c[d_green] - gamma rays\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Artefact Application Module (Empty)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>The Artefact Application Module (AAM) filters a significant amount of radiation particles emitted from artefacts. This advanced mechanical module is the most effective way of harnessing the power of most potent artefacts. Artefact filter is composed of numerous layers made of nano-carbon. It is hence lightweight and has strongest radiation shielding properties of all devices. Regarded as a symbol of affluence in the Zone. Most commonly used by the scientists to minimize the harmful effects of artefacts. Designed and manufactured in Ukraine by a government institute which provides equipment for the scientists residing in the Zone of Alienation. In case of emergency or if no longer needed, the module can be utilized as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Compared to the AAC, the AAM is capable of filtering out neutrons. Formed by only the most unstable artefacts, neutrons are able to penetrate skin and, in high doses, damage DNA and internal organs by causing instability to a molecule's atomic nuclei, which may then in turn decay to cause further damage. Even if the neutron is 'safely' absorbed, sufficient exposure will lead to deuterium poisoning.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] artefact storage device\n
+		%c[d_cyan] • %c[ui_gray_2] maximum capacity:%c 1\n
+		%c[d_cyan] • %c[ui_gray_2] protects from the following radioactive emissions:\n
+		%c[d_cyan] - beta particles\n
+		%c[d_green] - gamma rays\n
+		%c[d_orange] - neutrons\n
+		</text>
+	</string>
+	
+<!------------------------ Mutant Hide ------------------------>
+	<string id="st_hide_flesh_name">
+		<text>Flesh Hide</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Its heavy weight results from a thick layer of fat underneath the relatively soft and shallow skin. Stalkers often use excess fat for equipment lunbrication and repair.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Boar Pelt</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>A hide almost fully covered with a thick layer of fur, though the skin is unusually quite thin as the Boars within the Zone get their defensive capabilities from their thick muscle.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Bloodsucker Skin</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>The outer layer is very soft and pleasant to the touch, though the layers underneath are dense. Wearing Bloodsucker skin is a sign of proficiency, skill and strength.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Psysucker Skin</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>Like Bloodsucker skin, the outer layer is very soft and pleasant to the touch, though the layers underneath are dense, though not as much so as their evolutionary brethren.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Lurker Hide</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>A thick hide almost fully covered with fur. The skin is incredibly thick and durable.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Burer Skin</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Due to Burers rarely being encountered in the Zone, the skin has significant research potential.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Chimera Hide</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>A Chimera hide is often regarded as a source of wealth and power. The skin is one of the most valued scientific specimens as well as one of the best armor enhancements available in the Exclusion Zone.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Pseudogiant Hide</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>The skin of a pseudogiant is thick and tough, resembling the skin of an elephant. Since Pseudogiants are often known to live in areas of high toxicity and radioactivity, the hides have naturally adapted to such conditions, further increasing their usefulness. Valued not only for its practical qualities, but can serve as a prestigious hunting trophy.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Controller Scalp</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>It is quite an emotional challenge to scalp a Controller as the face of retains certain characteristics of the person it once was. When prepared properly, a Controller's scalp has the ability to absorb and filter psy energy.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Pseudodog Fur</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Densely covered with short and stiff fur, the pelt of pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Psy-dog Fur</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>The fur of a psy dog is undoubtedly one of the most beautiful and rare clothing materials in the world. Hunters often wear these furs with pride, but only if the creature was slain by their own hands.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_green] • %c[ui_gray_2] multi-stackable?: %c[ui_red]NO\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>'Diamond Powder'</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>A common name given to a crystal-like substance sometimes found in the belly of psy-creatures, though it is not known what metabolic processes lead to its emergence.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		</text>
+	</string>
+	
+</string_table>

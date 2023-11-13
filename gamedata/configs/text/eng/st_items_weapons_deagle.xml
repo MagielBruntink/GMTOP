@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_steppe_eagle">
+		<text>Steppe Eagle</text>
+	</string>
+	<string id="st_wpn_steppe_eagle_descr">
+		<text>The Desert Eagle is a gas-operated, semi-automatic pistol known for chambering the .50 Action Express, the largest centerfire cartridge of any magazine-fed, self-loading pistol. Magnum Research Inc. (MRI) designed and developed the Desert Eagle and was further refined (and manufactured) by Israel Military Industries (IMI). It uses a gas-operated ejection/chambering mechanism normally found in rifles, as opposed to the short recoil or blowback designs most commonly seen in semi-automatic pistols. The advantage of the gas operation is that it allows the use of far more powerful cartridges than traditional semi-automatic pistol designs. Thus it allows the Desert Eagle to compete in an area that had previously been dominated by Magnum revolvers.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Israel\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Magnum Research Inc., Israel Military Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1976\n \n
+		%c[0,255,255,255]UNIQUE: %c[0,250,250,0]Brought to the Zone by stalker Logan Williams, under the guise of a journalist-photographer. He managed to reach the center of Pripyat alone, though currently his fate is unknown. There are rumors that he works as an informant for many secret departments on the Exclusion Zone.\n
+		</text>
+	</string>
+	<string id="st_wpn_deagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_deagle_descr">
+		<text>The Desert Eagle is a gas-operated, semi-automatic pistol known for chambering the .50 Action Express, the largest centerfire cartridge of any magazine-fed, self-loading pistol. Magnum Research Inc. (MRI) designed and developed the Desert Eagle and was further refined (and manufactured) by Israel Military Industries (IMI). It uses a gas-operated ejection/chambering mechanism normally found in rifles, as opposed to the short recoil or blowback designs most commonly seen in semi-automatic pistols. The advantage of the gas operation is that it allows the use of far more powerful cartridges than traditional semi-automatic pistol designs. Thus it allows the Desert Eagle to compete in an area that had previously been dominated by Magnum revolvers.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]United States, Israel\n
+		%c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Magnum Research Inc., Israel Military Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1976\n
+		</text>
+	</string>
+</string_table>
